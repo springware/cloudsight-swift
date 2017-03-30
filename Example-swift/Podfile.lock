@@ -1,0 +1,21 @@
+PODS:
+  - CloudSight (1.0)
+
+DEPENDENCIES:
+  - CloudSight (from `https://github.com/springware/cloudsight-swift.git`)
+
+EXTERNAL SOURCES:
+  CloudSight:
+    :git: https://github.com/springware/cloudsight-swift.git
+
+CHECKOUT OPTIONS:
+  CloudSight:
+    :commit: c2ad0cc6cbb4ef435e1fc65c6d135adccd2acaba
+    :git: https://github.com/springware/cloudsight-swift.git
+
+SPEC CHECKSUMS:
+  CloudSight: 8a86f737ce328fc1b6e4ff4ad173a0a13afc2a4a
+
+PODFILE CHECKSUM: 3dadeefbc961c1aacd004910a250cec4f97f6bd7
+
+COCOAPODS: 1.2.1.beta.1
